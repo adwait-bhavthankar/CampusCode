@@ -15,5 +15,5 @@ This project demonstrates a rotating wheel effect created using HTML and CSS. Th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/adwait-bhavthankar/CampusCode.git
    cd rotating-wheel-effect
